@@ -1,4 +1,4 @@
-# Aleo-workshopNFT #
+# Aleo-workshop Private NFTs on Aleo  #
 
  * A simple NFT program deployed and built upon Aleo Blockchain...
 
